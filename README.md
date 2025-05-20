@@ -16,6 +16,6 @@ Here’s how I’m progressing in my DevOps transition:
 
 ## 🔗 Connect With Me  
 📌 [LinkedIn](www.linkedin.com/in/rakshith-raj-urs)  
-📌 [GitHub Portfolio]()  
+📌 [GitHub Portfolio](https://github.com/Tessolony/DevOps-Learning-Journey.git)  
 
 I’m documenting my journey and sharing insights—follow along! 🚀  
