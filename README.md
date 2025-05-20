@@ -15,7 +15,7 @@ Here’s how I’m progressing in my DevOps transition:
 ✅ **Step 7:** Automate deployments & improve workflows  
 
 ## 🔗 Connect With Me  
-📌 [LinkedIn](https;//www.linkedin.com/in/rakshith-raj-urs)  
+📌 [LinkedIn](https;//linkedin.com/in/rakshith-raj-urs)  
 📌 [GitHub Portfolio](https://github.com/Tessolony/DevOps-Learning-Journey.git)  
 
 I’m documenting my journey and sharing insights—follow along! 🚀  
