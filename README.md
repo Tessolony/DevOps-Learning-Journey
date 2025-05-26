@@ -1,18 +1,21 @@
-# DevOps-Learning-Journey
-A support engineer journey towards DevOps engineer!
+# DevOps Portfolio | Rakshith Raj URS
+ 
+About Me:
 
-# 🚀 My DevOps Learning Journey  
+Aspiring DevOps Engineer, passionate about automation, CI/CD, and cloud infrastructure.  
+Currently transitioning from DaaS support to DevOps, specializing in Jenkins, Git, AWS, and Linux.
 
-## 📖 Learning Steps  
-Here’s how I’m progressing in my DevOps transition:  
+## 🔹 Key Projects
+🔧 [Jenkins CI/CD Pipeline](https://github.com/example)  
+🔧 [AWS EC2 Deployment](https://github.com/example)  
+🔧 [GitHub Actions Workflow](https://github.com/example)  
 
-✅ **Step 1:** Set up Git & GitHub profile  
-✅ **Step 2:** Create and manage repositories  
-✅ **Step 3:** Configure Git (username, email, SSH keys)  
-✅ **Step 4:** Learn Linux system administration basics  
-✅ **Step 5:** Work with Jenkins pipelines for CI/CD  
-✅ **Step 6:** Explore AWS cloud infrastructure  
-✅ **Step 7:** Automate deployments & improve workflows  
+## 🔹 Internship and Certifications
+Microdegree internship certification on AWS & DevOps!
+
+## 🔹 Connect with Me
+💻 [GitHub](https://github.com/Tessolony)  
+💬 [LinkedIn](https://linkedin.com/in/example)
 
 ## 🔗 Connect With Me  
 
