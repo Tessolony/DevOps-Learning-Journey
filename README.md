@@ -5,17 +5,9 @@ About Me:
 Aspiring DevOps Engineer, passionate about automation, CI/CD, and cloud infrastructure.  
 Currently transitioning from DaaS support to DevOps, specializing in Jenkins, Git, AWS, and Linux.
 
-## 🔹 Key Projects
-🔧 [Jenkins CI/CD Pipeline](https://github.com/example)  
-🔧 [AWS EC2 Deployment](https://github.com/example)  
-🔧 [GitHub Actions Workflow](https://github.com/example)  
-
 ## 🔹 Internship and Certifications
 Microdegree internship certification on AWS & DevOps!
 
-## 🔹 Connect with Me
-💻 [GitHub](https://github.com/Tessolony)  
-💬 [LinkedIn](https://linkedin.com/in/example)
 
 ## 🔗 Connect With Me  
 
