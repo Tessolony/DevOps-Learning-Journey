@@ -1,0 +1,32 @@
+# Git Branching Concepts.
+
+## What is Git Branching? - Branches allow developers to work on different features or fixes without affecting the main codebase - It helps maintain a structured workflow and enables collaboration.
+
+## Types of Branches  
+- Main (`main`) → Stable branch with production-ready code.  
+- Feature Branches → New feature development before merging into `main`.  
+- Bug Fix Branches → Quick patches for issues in production.  
+- Release Branches → Prepares for a stable deployment.  
+- Hotfix Branches → Urgent fixes applied directly in production.  
+
+##  Common Git Branching Commands  
+
+# Create a new branch
+git branch feature-login-ui  
+
+# Switch to the new branch
+git checkout feature-login-ui  
+
+# Merge changes into main
+git checkout main
+git merge feature-login-ui  
+
+# Delete a branch (after merging)
+git branch -d feature-login-ui  
+
+
+Best Practices
+-Use clear branch names (feature-login-ui instead of new-branch)
+-Commit frequently to keep track of changes.
+- Merge branches regularly to avoid conflicts.
+- Delete unused branches once merged to keep things clean.
